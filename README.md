@@ -4,14 +4,14 @@ HTTP echo server
 
 ## Purpose
 
-For demonstrate implement api server roughly.
+For demonstrate implement api server roughly.  
 Usage of api request/response.
 
 ## Application
 
-There are two .py code for making echo server.
-'echo.py' is made for pure echoing request.
-'http_echo_server.py' is made for http request and response backing.
+There are two .py code for making echo server.  
+'echo.py' is made for pure echoing request.  
+'http_echo_server.py' is made for http request and response backing.  
 
 ## Usage
 
