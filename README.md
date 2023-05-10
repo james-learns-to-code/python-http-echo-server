@@ -21,4 +21,4 @@ sudo python http_echo_server.py
 ```
 Default port is 80
 
-To shutting down server, press Ctrl+C or shutdown instance.
+To shut down server, press Ctrl+C or shutdown instance.
